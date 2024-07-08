@@ -35,15 +35,16 @@ body,
 
 .header__title {
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 24px;
   line-height: 36px;
   margin-left: 10px;
 }
 
 /* news section styles */
+
 .news__title {
-  font-weight: bold;
+  font-weight: 700;
   font-size: 2rem;
   margin: 1rem 0;
 }
@@ -94,7 +95,7 @@ body,
 
 .news__card-title {
   font-size: 1.2rem;
-  font-weight: bold;
+  font-weight: 700;
 }
 
 .news__card-footer {
@@ -149,7 +150,7 @@ body,
 }
 
 .popular__title {
-  font-weight: bold;
+  font-weight: 700;
   font-size: 2rem;
   margin: 1rem 0;
 }
@@ -171,7 +172,7 @@ body,
 
 .popular__card-title {
   font-size: 20px;
-  font-weight: bold;
+  font-weight: 700;
   line-height: 30px;
   color: #171717;
 }
@@ -218,7 +219,7 @@ body,
 }
 
 .categories__title {
-  font-weight: bold;
+  font-weight: 700;
   font-size: 2rem;
   margin: 1rem 0;
   margin-left: 3rem;
@@ -302,7 +303,7 @@ body,
 
 .footer__title {
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 24px;
   line-height: 36px;
   margin-left: 10px;
